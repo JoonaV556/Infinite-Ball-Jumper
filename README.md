@@ -4,8 +4,10 @@ Play on itchio:
 https://coronal556.itch.io/2024-coding-task-joona-v  
 
 My fork of the minigame coding task  
+
+All code found in /Assets/Scripts
   
-This is my version of the infinite ball jumper game. I built this as a recruitment task for dev-lead position at Helsinki XR Center.
+This is my version of an infinite ball jumper game. I built this as a recruitment task for dev-lead position at Helsinki XR Center.
   
 Features:  
 	- procedural / endless spawning of obstacles and game objects - The algorithm is almost random but it has a few rules to prevent some stupid stuff from happening  
